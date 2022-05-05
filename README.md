@@ -26,7 +26,7 @@ Eventualmente ataco de Masterchef 🧑‍🍳
 E também falo umas baboseiras em Podcast 🎙️
 
 
- 🧑‍💻  &nbsp; Estou trabalhando na Tata Consultancy Services
+ 🧑‍💻  &nbsp; Trabalhando como Desenvolvedor Full Stack Pleno na Tata Consultancy Services
  <br/> 🧑‍🎓 &nbsp; Sou Bacharel em Ciência da Computação pelo Centro Universitário Filadélfia - UniFil
  <br/> 🧑‍🎓 &nbsp; Mestrando em Ciência da Computação pela Universidade Estadual de Londrina - UEL  
 
