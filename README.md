@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 # Matheus Muriel
 
-## Olá 👋
 Sou apaixonado por aprender e acho que conhecimento nunca é demais.  
-Minha maior paixão é por computação :computer:  
+
 Toco 12 instrumentos musicais :notes:  
 Sou membro do Lumberjacks Moto Clube 🪓  
 Fotografo nas horas vagas 📸  
@@ -28,10 +27,12 @@ E também falo umas baboseiras em Podcast 🎙️
 
 
  🧑‍💻  &nbsp; Estou trabalhando na Tata Consultancy Services
- <br/> 🧑‍🎓 &nbsp; Estou no ultimo ano de Ciência da Computação na UniFil  
+ <br/> 🧑‍🎓 &nbsp; Sou Bacharel em Ciência da Computação pela Centro Universitário Filadélfia - UniFil  
+ <br/> 🧑‍🎓 &nbsp; Mestrando em Ciência da Computação pela Universidade Estadual de Londrina - UEL  
 
  🐧 Linuqueiro feroz  
- :computer: As linguagens que eu mais gosto são Python, Ruby, Java, C#, Javascript (Com certas resalvas) além arranhar em R, Lua e Julia.
+ :computer: As linguagens que eu mais gosto são Python, Ruby, Elixir e Rust.   
+ Trabalho com C# e Javascript (Angular).
 
 
 
