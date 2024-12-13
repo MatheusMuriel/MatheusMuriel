@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 # Matheus Muriel
 
- 🧑‍💻  &nbsp; Working as Full Stack Developer on Tata Consultancy Services
- <br/> 🧑‍🎓 &nbsp; Graduated in Computer Science by University Center of Filadelfia - UniFil
- <br/> 🧑‍🎓 &nbsp; Master Degree candidate in Computer Science by State Univesity of Londrina - UEL
+ 🧑‍💻  &nbsp; Backend Developer at Tata Consultancy Services
+ <br/> 🥼 &nbsp; Artificial Intelligence Researcher and Master Degree candidate in Computer Science by State Univesity of Londrina - UEL
 
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusMuriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmuriel/)](https://www.linkedin.com/in/matheusmuriel/) 
 | 
